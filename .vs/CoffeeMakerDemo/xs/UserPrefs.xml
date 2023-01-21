@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B5E198E6-AF6B-4743-BE05-F51B06757EDF}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CoffeeMakerDemoTest FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoffeeMakerDemo/StarbuckStore.cs">
+    <Files>
+      <File FileName="CoffeeMakerDemo/Program.cs" Line="3" Column="5" />
+      <File FileName="CoffeeMakerDemo/FakeStarbucksStore.cs" Line="16" Column="1" />
+      <File FileName="CoffeeMakerDemo/IMakeACoffee.cs" Line="7" Column="64" />
+      <File FileName="CoffeeMakerDemo/Starbucks.cs" Line="7" Column="10" />
+      <File FileName="CoffeeMakerDemo/StarbuckStore.cs" Line="3" Column="2" />
+      <File FileName="CoffeeMakerDemoTest/UnitTest1.cs" Line="12" Column="75" />
+      <File FileName="CoffeeMakerDemoTest/Usings.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoffeeMakerDemo" expanded="True">
+            <Node name="CoffeeMakerDemo" expanded="True" />
+            <Node name="CoffeeMakerDemoTest" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CoffeeMakerDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
